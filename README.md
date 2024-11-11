@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy <em>José de Haro Jiménez</em></h1>
-<h3 align="center">Apasionado Fron Tend developer de España</h3>
+<h3 align="center">Apasionado Front End developer de España</h3>
 
 - 💬 Podemos hablar de **HTML, CSS, Python y Blazor.**
 
